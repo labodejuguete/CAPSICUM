@@ -1,0 +1,2 @@
+# CAPSICUM
+ Spicy MIDI Framework

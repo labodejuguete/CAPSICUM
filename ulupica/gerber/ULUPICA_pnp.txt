@@ -1,0 +1,95 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ULUPICA
+*Date=12:36:36
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;89.6882;-2.46736;0;Bottom;Hole8
+2;220;THT;37.288;-23.4574;90;Bottom;R6
+3;;3 mm [THT];88.6882;-28.0184;0;Bottom;LED
+4;;;2.4883;-2.46736;0;Bottom;Hole7
+5;220;THT;20.2757;-9.46726;-3.81667e-14;Bottom;R1
+6;;;74.0408;-2.87219;0;Bottom;IMG7
+7;;;26.8732;-23.6747;0;Bottom;Copper Fill8
+8;220;THT;34.288;-24.8574;90;Bottom;R5
+9;;;11.6078;-1.62741;0;Bottom;Copper Fill16
+10;220;THT;51.6882;-24.0574;90;Bottom;R8
+11;;;51.4525;-4.41915;0;Bottom;TXT2
+12;;;64.7954;-13.5908;0;Bottom;Copper Fill14
+13;;;81.7372;-15.6737;0;Bottom;Copper Fill13
+14;;;87.888;-20.6676;0;Bottom;Hole18
+15;;THT;76.4881;-38.818;180;Bottom;OUT 4
+16;;300 mil [THT];71.0881;-14.4826;90;Bottom;1N4007
+17;;THT;83.8386;-15.6674;-90;Bottom;OUT 5
+18;;;51.2881;-43.4674;0;Bottom;Hole13
+19;;;14.605;-34.0252;0;Bottom;Copper Fill28
+20;;;51.6472;-1.65083;0;Bottom;TXT2
+21;;;72.009;-23.5477;0;Bottom;Copper Fill6
+22;;DIP14 [THT];44.7836;-15.9229;0;Bottom;74HC14
+23;;THT;8.23721;-15.7675;90;Bottom;IN
+24;;;26.1366;-33.4029;0;Bottom;Copper Fill3
+25;220;THT;26.9971;-27.9514;-22.9243;Bottom;R4
+26;220;THT;46.9005;-28.3024;-3.81667e-14;Bottom;R7
+27;;;21.971;-28.8055;0;Bottom;Copper Fill4
+28;;;40.8882;-43.4674;0;Bottom;Hole17
+29;;;56.0832;-19.9663;0;Bottom;Copper Fill10
+30;;THT;23.6869;-3.0677;0;Bottom;J3
+31;5V;TO220 [THT];62.5481;-20.1434;180;Bottom;7805
+32;;;15.8369;-35.2571;0;Bottom;Copper Fill27
+33;;;36.0553;-32.7933;0;Bottom;Copper Fill29
+34;;;3.58798;-20.7675;0;Bottom;Hole20
+35;;;3.58798;-10.7674;0;Bottom;Hole21
+36;;;20.828;-1.47501;0;Bottom;Copper Fill18
+37;;;62.0776;-24.1827;0;Bottom;Copper Fill7
+38;;300 mil [THT];28.0726;-9.06735;0;Bottom;1N4148
+39;;THT;15.888;-38.818;180;Bottom;OUT 1
+40;220;THT;53.5452;-11.7019;110.638;Bottom;R10
+41;220;THT;53.688;-22.8573;90;Bottom;R9
+42;;;88.0881;-10.6675;0;Bottom;Hole19
+43;220;THT;16.098;-27.6674;0;Bottom;R3
+44;;;62.3676;-7.95314;-90;Bottom;Power plug2
+45;;;43.8658;-32.3107;0;Bottom;Copper Fill1
+46;;;80.1624;-15.7371;0;Bottom;Copper Fill26
+47;;DIP (Dual Inline) [THT];26.558;-17.0774;-90;Bottom;6N138
+48;100nF;100 mil [THT, multilayer];58.9582;-26.6673;0;Bottom;0.1uF
+49;;;88.6333;-31.0407;0;Bottom;Copper Fill19
+50;;;63.4365;-25.5035;0;Bottom;Copper Fill21
+51;;THT;36.088;-38.818;180;Bottom;OUT 2
+52;;;31.088;-43.4674;0;Bottom;Hole14
+53;;;10.7878;-43.5672;0;Bottom;Hole15
+54;;;35.7966;-12.123;-90;Bottom;TXT5
+55;;;44.8564;-23.2175;0;Bottom;Copper Fill9
+56;220;THT;69.4882;-25.0574;90;Bottom;R11
+57;;;26.2069;-2.56485;0;Bottom;IMG6
+58;;;61.288;-43.4674;0;Bottom;Hole12
+59;;;66.3956;-35.2317;0;Bottom;Copper Fill2
+60;;;61.2521;-5.66601;0;Bottom;Copper Fill23
+61;;THT;56.2881;-38.818;180;Bottom;OUT 3
+62;;;71.4881;-43.4674;0;Bottom;Hole11
+63;;;61.2902;-19.5598;0;Bottom;Copper Fill11
+64;;;89.6882;-44.4674;0;Bottom;Hole9
+65;;;49.3522;-26.0115;0;Bottom;Copper Fill5
+66;;;89.7636;-29.9104;0;Bottom;Copper Fill20
+67;;;81.4881;-43.4674;0;Bottom;Hole10
+68;;;2.4883;-44.4674;0;Bottom;Hole6
+69;220;THT;26.898;-23.6674;0;Bottom;R2
+70;470;THT;81.478;-29.9907;-180;Bottom;R13
+71;;;70.3834;-13.4892;0;Bottom;Copper Fill15
+72;;;38.646;-12.0146;-90;Bottom;TXT5
+73;;;78.9305;-16.969;0;Bottom;Copper Fill24
+74;;;40.9321;-7.13921;0;Bottom;Copper Fill22
+75;220;THT;73.8756;-28.4674;-3.81667e-14;Bottom;R12
+76;10µF;100 mil [THT, electrolytic];64.7581;-26.6673;0;Bottom;10uF
+77;;;20.788;-43.5672;0;Bottom;Hole16
+78;;;77.6986;-15.7371;0;Bottom;Copper Fill25
+79;;;46.0756;-23.5477;0;Bottom;Copper Fill17
+80;;;44.8564;-18.8994;0;Bottom;Copper Fill12

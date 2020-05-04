@@ -1,0 +1,197 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=CHIPOTLE
+*Date=12:33:07
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;55.0401;-42.6665;0;Bottom;Jumper37
+2;;;48.286;-18.3718;-90;Bottom;TXT8
+3;10k;THT;48.0543;-45.6207;0;Bottom;R24
+4;;;60.9264;-18.3549;-90;Bottom;TXT8
+5;;;24.6146;-50.6169;0;Bottom;TXT9
+6;;300 mil [THT];47.0958;-66.258;180;Bottom;D11
+7;;;84.8868;-39.5191;0;Bottom;Copper Fill34
+8;;;71.1025;-18.0896;-90;Bottom;TXT8
+9;;;48.0568;-45.7167;0;Bottom;Copper Fill26
+10;;;102.667;-45.8183;0;Bottom;Copper Fill25
+11;;;20.0229;-26.4577;0;Bottom;Hole11
+12;220;THT;39.9152;-37.6438;60;Bottom;R34
+13;;300 mil [THT];21.7847;-71.6182;-90;Bottom;D17
+14;;;23.6099;-47.9004;0;Bottom;TXT9
+15;;;101.835;-56.284;0;Bottom;TXT10
+16;;;56.1214;-2.80199;0;Bottom;TXT9
+17;;;101.777;-34.4074;0;Bottom;SW1
+18;;300 mil [THT];60.7197;-66.258;180;Bottom;D10
+19;;3 mm [THT];95.1986;-32.1584;0;Bottom;LED
+20;;;55.2958;-11.5537;0;Bottom;Copper Fill54
+21;;rca_lock;60.8197;-73.5205;90;Bottom;JP7
+22;;;72.4662;-5.1021;0;Bottom;Copper Fill60
+23;;rca_lock;101.503;-73.5205;90;Bottom;JP5
+24;;;49.7332;-32.3309;0;Bottom;Copper Fill35
+25;;;93.2744;-24.1577;0;Bottom;TXT12
+26;;;73.7836;-18.2307;-90;Bottom;TXT8
+27;;300 mil [THT];101.52;-66.3579;180;Bottom;D13
+28;;;11.303;-69.1355;0;Bottom;Copper Fill12
+29;;;91.6432;-32.9659;0;Bottom;Copper Fill45
+30;;;64.5668;-34.5407;0;Bottom;Copper Fill29
+31;;;53.7718;-75.9935;0;Bottom;Copper Fill4
+32;;3 mm [THT];67.5922;-32.2272;0;Bottom;LED
+33;;THT;64.2705;-8.68252;-90;Bottom;R10
+34;;;60.8596;-34.5072;0;Bottom;SW4
+35;;;74.2514;-2.84065;0;Bottom;TXT9
+36;;;71.0946;-39.6461;0;Bottom;Copper Fill30
+37;;;93.0656;-58.8993;0;Bottom;Copper Fill16
+38;;;106.399;-18.9164;0;Bottom;Hole8
+39;220;THT;80.5553;-37.6438;60;Bottom;R31
+40;;;43.8404;-39.3159;0;Bottom;Copper Fill36
+41;;300 mil [THT];33.896;-66.3579;180;Bottom;D15
+42;;;38.9636;-58.7977;0;Bottom;Copper Fill17
+43;;;90.4748;-5.0767;0;Bottom;Copper Fill57
+44;;;41.1226;-11.8839;0;Bottom;Copper Fill51
+45;;TO220 [THT];60.8445;-50.3817;0;Bottom;IRFZ44N
+46;;THT;28.2704;-8.68252;-90;Bottom;R8
+47;;;46.7273;-25.0436;0;Bottom;IMG6
+48;;;10.9128;-71.9001;90;Bottom;Power plug2
+49;;THT;24.9202;-60.0564;0;Bottom;J23
+50;;TO220 [THT];88.0505;-50.4816;0;Bottom;IRFZ44N
+51;;;57.0992;-33.0675;0;Bottom;Copper Fill39
+52;;;81.208;-18.1795;-90;Bottom;TXT8
+53;;;81.0006;-67.6877;0;Bottom;Copper Fill11
+54;;;74.3131;-56.1876;0;Bottom;TXT10
+55;;;67.2084;-76.0697;0;Bottom;Copper Fill5
+56;;;11.2268;-71.2437;0;Bottom;Copper Fill1
+57;;;21.7312;-75.4282;0;Bottom;Hole16
+58;;;76.3524;-13.4333;0;Bottom;Copper Fill50
+59;;;50.826;-18.3718;-90;Bottom;TXT8
+60;220;THT;26.3686;-37.5027;60;Bottom;R35
+61;;;54.3814;-5.0767;0;Bottom;Copper Fill61
+62;;;29.2354;-55.2925;0;Bottom;Copper Fill20
+63;;;8.6614;-66.2399;0;Bottom;Copper Fill19
+64;;3 mm [THT];26.811;-32.0861;0;Bottom;LED
+65;;;57.3786;-39.2651;0;Bottom;Copper Fill31
+66;;;31.3944;-72.8693;0;Bottom;Copper Fill9
+67;;;63.4986;-18.2526;-90;Bottom;TXT8
+68;;;41.6046;-42.6665;0;Bottom;Jumper36
+69;;;33.0243;-18.1441;-90;Bottom;TXT8
+70;;;45.7138;-18.3331;-90;Bottom;TXT8
+71;;rca_lock;74.0029;-73.5205;90;Bottom;JP6
+72;220;THT;94.7561;-37.5751;60;Bottom;R30
+73;;;102.235;-64.9191;0;Bottom;Copper Fill18
+74;;3 mm [THT];80.9978;-32.2272;0;Bottom;LED
+75;;;106.334;-61.3186;0;Bottom;Hole10
+76;;300 mil [THT];74.0199;-66.3579;180;Bottom;D12
+77;;3 mm [THT];53.7633;-32.2272;0;Bottom;LED
+78;;;38.1483;-18.2432;-90;Bottom;TXT8
+79;10k;THT;75.4956;-45.7206;0;Bottom;R26
+80;;;64.74;-8.57174;0;Bottom;Jumper26
+81;;;24.1808;-12.7221;0;Bottom;Copper Fill48
+82;;;98.552;-39.7985;0;Bottom;Copper Fill32
+83;;THT;100.27;-8.68252;-90;Bottom;R11
+84;;;83.3044;-8.28952;0;Bottom;Jumper25
+85;;;54.864;-25.8539;0;Bottom;Copper Fill44
+86;;;74.3597;-34.5072;0;Bottom;SW3
+87;;THT;10.2705;-8.68252;-90;Bottom;R7
+88;;;35.6405;-18.2819;-90;Bottom;TXT8
+89;;;95.631;-30.2481;0;Bottom;Copper Fill46
+90;;;36.3982;-5.1021;0;Bottom;Copper Fill59
+91;220;THT;67.1498;-37.6438;60;Bottom;R32
+92;;;79.4766;-58.0611;0;Bottom;Copper Fill14
+93;;;29.0223;-8.57174;0;Bottom;Jumper28
+94;;rca_lock;47.0029;-73.5205;90;Bottom;JP8
+95;;;24.6146;-45.302;0;Bottom;TXT9
+96;;;77.9272;-35.6075;0;Bottom;Copper Fill33
+97;10k;THT;89.4956;-45.7205;0;Bottom;R28
+98;;;20.0229;-61.8577;0;Bottom;Hole12
+99;;;18.5405;-20.3342;0;Bottom;IMG7
+100;;;66.1797;-18.2526;-90;Bottom;TXT8
+101;;;47.1417;-34.5072;0;Bottom;SW5
+102;;;18.796;-5.1783;0;Bottom;Copper Fill58
+103;;;62.8396;-10.3599;0;Bottom;Copper Fill55
+104;;;47.0222;-8.57174;0;Bottom;Jumper27
+105;;;61.8998;-45.7675;0;Bottom;Copper Fill27
+106;;;40.4114;-32.1531;0;Bottom;Copper Fill37
+107;;;40.0558;-76.1459;0;Bottom;Copper Fill3
+108;;THT;46.2705;-8.68252;-90;Bottom;R9
+109;;;13.2334;-46.6311;0;Bottom;Copper Fill21
+110;;;33.8557;-56.1406;0;Bottom;TXT10
+111;;;55.933;-18.3268;-90;Bottom;TXT8
+112;;;89.5096;-45.7929;0;Bottom;Copper Fill24
+113;;;3.45029;-61.4191;0;Bottom;Hole9
+114;;;28.5643;-42.7548;0;Bottom;Jumper42
+115;;TO220 [THT];47.1266;-50.3817;0;Bottom;IRFZ44N
+116;;3 mm [THT];40.3579;-32.2272;0;Bottom;LED
+117;;;19.9644;-31.9499;0;Bottom;Copper Fill52
+118;;;75.5142;-45.7929;0;Bottom;Copper Fill23
+119;;;80.5434;-76.0697;0;Bottom;Copper Fill6
+120;;;73.8124;-16.7861;0;Bottom;Copper Fill49
+121;;;96.3694;-42.9016;0;Bottom;Jumper40
+122;;;84.4296;-33.3469;0;Bottom;Copper Fill38
+123;;;91.9505;-2.93463;0;Bottom;TXT9
+124;;;65.9638;-58.6199;0;Bottom;Copper Fill13
+125;220;THT;16.8114;-42.761;90;Bottom;R21
+126;;;88.1004;-56.0959;0;Bottom;TXT10
+127;;;11.9394;-8.57174;0;Bottom;Jumper29
+128;;;76.0958;-18.1408;-90;Bottom;TXT8
+129;;THT;82.2705;-8.68252;-90;Bottom;R12
+130;;;53.3609;-18.2881;-90;Bottom;TXT8
+131;10k;THT;61.9132;-45.6207;0;Bottom;R25
+132;;;28.8032;-58.3066;0;Bottom;TXT11
+133;;;28.2721;-61.4976;0;Bottom;TXT11
+134;;;81.106;-26.4576;0;Bottom;Hole13
+135;;;24.7619;-42.5854;0;Bottom;TXT8
+136;;;94.2086;-75.9935;0;Bottom;Copper Fill7
+137;;;2.18807;-2.82598;0;Bottom;TXT9
+138;;5 mm [THT];7.61704;-31.2133;0;Bottom;LED
+139;;;21.7312;-67.7139;0;Bottom;Hole15
+140;;;60.7719;-56.1429;0;Bottom;TXT10
+141;;;25.3746;-45.3357;0;Bottom;Copper Fill28
+142;;;93.1333;-17.3844;0;Bottom;TXT12
+143;;;68.5303;-18.0509;-90;Bottom;TXT8
+144;;300 mil [THT];87.4554;-66.3579;180;Bottom;D14
+145;;;70.6882;-31.2895;0;Bottom;Copper Fill41
+146;;rca_lock;87.5029;-73.5205;90;Bottom;JP1
+147;;THT;56.71;-21.5637;90;Bottom;J15
+148;220;THT;53.3209;-37.6438;60;Bottom;R33
+149;;;52.4002;-58.6961;0;Bottom;Copper Fill15
+150;;;30.0228;-33.3723;0;Bottom;Copper Fill40
+151;;;33.6416;-34.5072;0;Bottom;SW6
+152;;;19.4564;-63.2427;0;Bottom;Copper Fill2
+153;;;43.4016;-18.423;-90;Bottom;TXT8
+154;;;93.2039;-20.5261;0;Bottom;TXT13
+155;;;13.6144;-17.0655;0;Bottom;Copper Fill47
+156;;;68.9635;-42.7605;0;Bottom;Jumper38
+157;;rca_lock;33.8031;-73.6205;90;Bottom;JP9
+158;;;78.668;-18.1795;-90;Bottom;TXT8
+159;;;35.306;-45.7167;0;Bottom;Copper Fill22
+160;;;89.1286;-12.0617;0;Bottom;Copper Fill53
+161;;;44.704;-72.6915;0;Bottom;Copper Fill10
+162;;THT;20.1399;-47.0477;180;Bottom;J17
+163;;;7.77184;-51.0823;0;Bottom;TXT9
+164;;;58.6142;-18.4449;-90;Bottom;TXT8
+165;;[THT];7.93064;-45.6411;90;Bottom;S1
+166;10k;THT;35.2778;-45.7206;0;Bottom;R29
+167;10k;THT;102.854;-45.7205;0;Bottom;R27
+168;;;88.2773;-34.4074;0;Bottom;SW2
+169;;;40.7205;-18.2819;-90;Bottom;TXT8
+170;;;98.3742;-33.2199;0;Bottom;Copper Fill42
+171;;;47.2251;-56.0488;0;Bottom;TXT10
+172;;;20.0513;-2.80199;0;Bottom;TXT9
+173;;;107.798;-70.8627;0;Bottom;Copper Fill8
+174;;TO220 [THT];101.645;-50.4816;0;Bottom;IRFZ44N
+175;;;82.5401;-42.7605;0;Bottom;Jumper41
+176;;;81.106;-61.8577;0;Bottom;Hole14
+177;;;3.36168;-18.8154;0;Bottom;Hole7
+178;;;97.2058;-8.9883;0;Bottom;Copper Fill56
+179;;TO220 [THT];74.3328;-50.4816;0;Bottom;IRFZ44N
+180;;;38.1135;-2.80199;0;Bottom;TXT9
+181;;;43.6626;-33.2199;0;Bottom;Copper Fill43
+182;;TO220 [THT];33.9268;-50.4815;0;Bottom;IRFZ44N

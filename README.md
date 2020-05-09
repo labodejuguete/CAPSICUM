@@ -26,7 +26,7 @@ CHIPOTLE implementa 6 transistores MOSFET para el control de actuadores (por eje
  PEPERONCINO es una shield MIDI (IN-OUT/THRU) para Arduino. La entrada MIDI está aislada ópticamente de acuerdo a la práctica general. Cuenta con un interruptor para seleccionar entre modo Programación y Modo MIDI y una pequeña superficie de prototipado.
 # ULUPICA (Capsicum cardenasii)
   ![alt tag](https://github.com/labodejuguete/CAPSICUM/blob/master/ulupica/ulupica-pic0.jpg)
- ULUPICA es una MIDI THRU BOX. Replica la señal MIDI entrante en sus cinco salidas. La versión MKI se alimenta con 9 a 12 V. La versión MKII se alimenta por USB (aún no fabricada ni testeada).
+ ULUPICA es una MIDI THRU BOX. Replica la señal MIDI entrante en sus cinco salidas.
  
  INFORMACION ADICIONAL
  

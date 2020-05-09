@@ -15,7 +15,7 @@ CHIPOTLE implementa 6 transistores MOSFET para el control de actuadores (por eje
 
 # ROCOTO (Capsicum pubescens)
   ![alt tag](https://github.com/labodejuguete/CAPSICUM/blob/master/rocoto/rocoto.jpg)
- ROCOTO implementa seis relays DPDT para encendido y apagado electromecánico de dispositivos de corriente alterna o continua. Cuenta además con seis pulsadores con retención (con led indicador de estado) conectados a sendas entradas digitales y seis potenciómetros conectados a las entradas analógicas.
+ ROCOTO implementa seis relays DPDT para encendido y apagado electromecánico de dispositivos de corriente alterna o continua. Cuenta además con seis pulsadores con retención (con led indicador de estado) conectados a sendas entradas digitales, seis interruptores (cambian el modo del  relay de Normal Abierto a Normal Cerrado) y seis potenciómetros conectados a las entradas analógicas.
 # PANKA (Capsicum baccatum)
   ![alt tag](https://github.com/labodejuguete/CAPSICUM/blob/master/panka/panka-pic1.jpg)
  PANKA transforma a CAPSICUM en un “teclado“ MIDI a la manera del popular Stylophone. Cuenta con un interruptor para seleccionar diversas escalas pre-programadas y un pixel led para identificar por color la escala seleccionada. 

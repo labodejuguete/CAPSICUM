@@ -1,9 +1,16 @@
 # CAPSICUM
- Spicy MIDI Framework
+# Spicy MIDI Framework
+ ![alt tag](https://github.com/labodejuguete/CAPSICUM/blob/master/capsicum/capsicum.JPG)
+(engish below)
+ CAPSICUM es un entorno de implentación del popular protocolo MIDI para la experimentación electrónica. Puede leer (IN), escribir (OUT) y redirigir (THRU) permitiendo tanto el control de dispositivos electrónicos/eléctricos como la creación de interfaces de ejecución musical. Se basa en el microcontrolador ATMEGA328P-PU y a nivel soft y se programa mediante el entorno Arduino haciendo uso de un programador USB a Serial (u otra placa Arduino).
+ Todas las PCBs son de una sola capa, permitiendo su fabricación casera. Fueron diseñadas con FRITZING
+ https://fritzing.org/
+ CAPSICUM fue desarrollado originalmente para el control electromecánico, lumínico y sonoro de LUDOTECNIA
+ http://www.jcrowe.xyz/ludotecnia 
  
- ![alt tag](https://github.com/labodejuguete/CAPSICUM/blob/master/capsicum/capsicum.JPG) CAPSICUM se acompaña de las siguientes expansiones:
+CAPSICUM se complementa las siguientes expansiones:
  
-# CHIPOTLE(Capsicum annum (ahumado))
+# CHIPOTLE (Capsicum annum (ahumado))
   ![alt tag](https://github.com/labodejuguete/CAPSICUM/blob/master/chipotle/chipotle-pic3.jpg) 
   
 CHIPOTLE implementa 6 transistores MOSFET para el control de actuadores (por ejemplo motores y solenoides) y leds (en tira o de alta potencia). Cuenta además con seis potenciómetros contectados a las entradas analógicas y seis interruptores de corte para control manual de las señales que activan los transistores. Cuenta además con una entrada de alimentación en caso se requieran voltajes superiores a 12V (hasta 12 V pueden ser suministrados directamente desde la placa CAPSICUM.
@@ -13,7 +20,7 @@ CHIPOTLE implementa 6 transistores MOSFET para el control de actuadores (por eje
  ROCOTO implementa seis relays DPDT para encendido y apagado electromecánico de dispositivos de corriente alterna o continua. Cuenta además con seis pulsadores con retención (con led indicador de estado) conectados a sendas entradas digitales y seis potenciómetros conectados a las entradas analógicas.
 # PANKA (Capsicum baccatum)
   ![alt tag](https://github.com/labodejuguete/CAPSICUM/blob/master/panka/panka-pic1.jpg)
- PANKA transforma a CAPSICUM en un “teclado“ MIDI a la manera del popular Stylophone. Cuenta con un interruptor para seleccionar diversas escalas pre-programadas y un pixel led para identificar la escala seleccionada. 
+ PANKA transforma a CAPSICUM en un “teclado“ MIDI a la manera del popular Stylophone. Cuenta con un interruptor para seleccionar diversas escalas pre-programadas y un pixel led para identificar por color la escala seleccionada. 
  
  Otros integrantes de la familia CAPSICUM:
 # PEPERONCINO (Capsicum frutescens)
@@ -23,6 +30,7 @@ CHIPOTLE implementa 6 transistores MOSFET para el control de actuadores (por eje
   ![alt tag](https://github.com/labodejuguete/CAPSICUM/blob/master/ulupica/ulupica-pic0.jpg)
  ULUPICA es una MIDI THRU BOX. Replica la señal MIDI entrante en sus cinco salidas. La versión MKI se alimenta con 9 a 12 V. La versión MKII se alimenta por USB (aún no fabricada ni testeada).
  
+
  
  
  

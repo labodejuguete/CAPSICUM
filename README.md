@@ -1,11 +1,12 @@
 # CAPSICUM
  Spicy MIDI Framework
- ![alt tag](https://raw.githubusercontent.com/labodejuguete/CAPSICUM/master/capsicum/capsicum.JPG?token=AFH4WJL33KCTPEKB6SWZKQK6W3ZMQ)
+ 
+ ![alt tag](https://raw.githubusercontent.com/labodejuguete/CAPSICUM/master/capsicum/capsicum.JPG?token=AFH4WJLZRRB2D3TFQ4DLUQ26W33RU)
  
 CAPSICUM se acompaña de las siguientes expansiones:
  
 CHIPOTLE (Capsicum annum ahumado)
-  ![alt tag](https://raw.githubusercontent.com/labodejuguete/CAPSICUM/master/chipotle/chipotle-pic3.jpg?token=AFH4WJKM32II5SOH2R7QR3S6W32IC) 
+  ![alt tag](https://raw.githubusercontent.com/labodejuguete/CAPSICUM/master/chipotle/chipotle-pic3.jpg?token=AFH4WJLQP4OGAIVIKLZ2IRS6W33ZA) 
   
 CHIPOTLE implementa 6 transistores MOSFET para el control de actuadores (por ejemplo motores y solenoides) y leds (en tira o de alta potencia). Cuenta además con seis potenciómetros contectados a las entradas analógicas y seis interruptores de corte para control manual de las señales que activan los transistores. Cuenta además con una entrada de alimentación en caso se requieran voltajes superiores a 12V (hasta 12 V pueden ser suministrados directamente desde la placa CAPSICUM.
 

@@ -3,7 +3,8 @@
  
  ![alt tag](https://github.com/labodejuguete/CAPSICUM/blob/master/capsicum/capsicum.JPG) CAPSICUM se acompaña de las siguientes expansiones:
  
-CHIPOTLE (Capsicum annum ahumado)
+# CHIPOTLE
+(Capsicum annum ahumado)
   ![alt tag](https://github.com/labodejuguete/CAPSICUM/blob/master/chipotle/chipotle-pic3.jpg) 
   
 CHIPOTLE implementa 6 transistores MOSFET para el control de actuadores (por ejemplo motores y solenoides) y leds (en tira o de alta potencia). Cuenta además con seis potenciómetros contectados a las entradas analógicas y seis interruptores de corte para control manual de las señales que activan los transistores. Cuenta además con una entrada de alimentación en caso se requieran voltajes superiores a 12V (hasta 12 V pueden ser suministrados directamente desde la placa CAPSICUM.

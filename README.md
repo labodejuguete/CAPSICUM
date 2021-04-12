@@ -79,7 +79,8 @@ https://fritzing.org/
 
 CAPSICUM was originally developed for the electromechanical, light and sound control of LUDOTECNIA:
 
-http://www.jcrowe.xyz/ludotecnia-en
+http://www.jcrowe.xyz/ludotecnia
+
  
  
 
